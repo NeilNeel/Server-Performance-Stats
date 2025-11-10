@@ -4,7 +4,7 @@
 `server-stats.sh` is a simple Bash script that displays essential performance metrics for a Linux server.  
 It’s designed for beginners to understand system monitoring commands and basic shell scripting.
 
-This project is based on the requirements from the [Server Performance Stats project on Roadmap.sh](https://roadmap.sh/projects/server-stats). :contentReference[oaicite:0]{index=0}
+This project is based on the requirements from the [Server Performance Stats project on Roadmap.sh](https://roadmap.sh/projects/server-stats)
 
 ## Features
 - Total CPU usage  
